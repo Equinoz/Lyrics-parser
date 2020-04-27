@@ -1,0 +1,8 @@
+{
+
+    "itemLyricsParser": {
+    "message": "Analyser '%s' avec lyrics-parser",
+    "description": "Titre du menu contextuel permettant de lancer l'analyse du texte sélectionné."
+  }
+
+}
